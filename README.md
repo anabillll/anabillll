@@ -8,7 +8,7 @@
     <a href="https://www.instagram.com/a_nabillll/" rel="nofollow"><img src="https://camo.githubusercontent.com/b4252173f5d3970c27012f7b2055f590c4069c24/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d2532334534343135463f7374796c653d666c6174266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&amp;logo=instagram&amp;logoColor=white" style="max-width:100%;"></a>
   </p>
   <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png"><img src="https://github.com/mohamedabusrea/mohamedabusrea/raw/master/profile-img.png" align="right" width="25%" style="max-width:100%;"></a></p>
-<p>I'm a data analyst who is passionate about technology. Some technologies I enjoy working with include Python, SQL, Tableau and Excell.</p>
+<p>I'm a developer who is passionate about technology. Some technologies I enjoy working with include HTML5, CSS3, JavaScript, jQuery, Python, SQL, Tableau and Excell..</p>
 </li>
 </article>
   </div>
