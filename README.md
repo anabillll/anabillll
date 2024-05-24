@@ -1,14 +1,48 @@
-### Hi there 👋
-<div class="Box-body p-4">
-    <div class="d-flex">
-    </div>
-    <article class="markdown-body entry-content container-lg f5" itemprop="text"><h1 align="center"><a id="user-content-hi-im-Abdelrahman-" class="anchor" aria-hidden="true" href="#hi-im-mohamed-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Hi I'm Abdelrahman <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji></h1>
-<p align="center">
-    <a href="https://www.linkedin.com/in/anabilofficial/" rel="nofollow"><img src="https://camo.githubusercontent.com/afebafcd31913c1977ade8d789d8665c4c1e8544/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333031373742353f7374796c653d666c6174266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;"></a>
-    <a href="https://www.instagram.com/a_nabillll/" rel="nofollow"><img src="https://camo.githubusercontent.com/b4252173f5d3970c27012f7b2055f590c4069c24/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d2532334534343135463f7374796c653d666c6174266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&amp;logo=instagram&amp;logoColor=white" style="max-width:100%;"></a>
-  </p>
-  <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png"><img src="https://github.com/mohamedabusrea/mohamedabusrea/raw/master/profile-img.png" align="right" width="25%" style="max-width:100%;"></a></p>
-<p>I'm a developer who is passionate about technology. Some technologies I enjoy working with include HTML5, CSS3, JavaScript, jQuery, Python, SQL, Tableau and Excell..</p>
-</li>
-</article>
-  </div>
+# Hi there 👋
+
+I'm Abdelrahman, a passionate Data Analyst with a strong background in various technologies and a keen interest in leveraging data to drive business decisions. 
+
+## About Me
+
+- 🔭 I’m currently working on projects involving data analysis and visualization.
+- 🌱 I’m continuously learning and improving my skills in data science and analytics.
+- 👯 I’m looking to collaborate on data-driven projects.
+- 📫 How to reach me: anabilofficial@gmail.com
+
+## Skills
+
+- **Languages**: Python, SQL, R
+- **Technologies**: HTML5, CSS3, JavaScript, jQuery
+- **Data Analysis Tools**: Pandas, NumPy, Excel, Tableau, Power BI
+- **Databases**: MySQL, SQL Server
+
+## Projects
+
+### [Web Scraping Job Listings](https://github.com/anabillll/WebScrapingJobListings)
+Scraped job listings from Glassdoor for data analyst positions in Toronto using Selenium and Pandas, cleaned the data, and visualized the results.
+
+### [Toronto Housing Data Analysis](https://github.com/anabillll/TorontoHousingDataAnalysis)
+Analyzed housing data in Toronto, performed data cleaning and visualization to uncover market trends.
+
+### [Movies Dashboard](https://public.tableau.com/views/MoviesDashboard_17162622863030/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+Created an interactive Tableau dashboard to analyze movie data, including box office performance and ratings.
+
+### [Toronto Bikeshare Analysis](https://github.com/anabillll/TorontoBikeshareAnalysis)
+Performed exploratory data analysis on Toronto Bikeshare data to identify usage patterns and trends.
+
+## Certifications
+
+- Data Analyst Associate - DataCamp
+- Project Management - George Brown College
+- Google Data Analytics Certificate
+
+## Languages
+
+- German
+- Spanish
+- Arabic
+
+## Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/abdelrahman/)
+- [Twitter](https://twitter.com/abdelrahman)
